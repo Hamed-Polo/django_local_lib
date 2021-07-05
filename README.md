@@ -13,6 +13,16 @@ The main features that are currently implemented are:
 * Librarians can renew reserved books
 * The amount of times the user comes to the home page is being tracked.
 
+
+## Walkthrough
+
+
+https://user-images.githubusercontent.com/26170312/124415471-eb39ea80-dd22-11eb-8f2f-119ddfb5dea2.mp4
+
+
+[Live Demo](https://serene-capitol-reef-86929.herokuapp.com/)
+
+
 ## Quick Start
 
 To get this project up and running locally on your computer:
