@@ -1,5 +1,5 @@
 # django_local_lib
-a simple local library using django
+A simple local library using django
 
 ## Overview
 
@@ -7,11 +7,11 @@ This web application creates an online catalog for a small local library, where 
 
 The main features that are currently implemented are:
 
-* Mdels for books, book copies, genre, language and authors.
-* Users can view list and detail information for books and authors.
-* Admin users can create and manage models. The admin has been optimised (the basic registration is present in admin.py, but commented out).
-* Librarians can renew reserved books
-* The amount of times the user comes to the home page is being tracked.
+* Models for books, book copies, genre, language, and authors.
+* Users can view lists and detailed information for books and authors.
+* Admin users can create and manage models. The admin has been optimised.
+* Librarians can renew reserved books.
+* Users can see the number of times they visited the home page.
 
 
 ## Walkthrough
